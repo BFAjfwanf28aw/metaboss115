@@ -1,0 +1,70 @@
+{
+  "name": "Minoan MooBaa155",
+  "symbol": "MOOMIN",
+  "description": "This collection's Metaplex collection standard NFT does not have metadata URI. If you have the update authority, you can change the picture/description on this page by updating the collection standard NFT and filling in the right metadata URI.",
+  "seller_fee_basis_points": 200,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://dweb.link/ipfs/QmVprwJ3Lu2Y77MQusTG6S38QVJ4vU15kv7aG4MWDwbjFE/174.png",
+  "attributes": [
+   {
+      "trait_type": "Backgrounds",
+      "value": "Minoa Pink"
+    },
+    {
+      "trait_type": "Backing",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Horns",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Minoa Clear Fire With Lava Spots"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Orange Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Minoa Smoking Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Unsure"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Minoa Pink Mohawk"
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "value": 1,
+      "display_type": "number",
+      "max_value": 1111
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+}
